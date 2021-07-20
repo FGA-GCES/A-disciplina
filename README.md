@@ -63,3 +63,7 @@
 |  Contribuições individuais | 30% |
 
 A nota final será a soma da nota individual com a nota de grupo, nas proporções indicadas acima.
+
+## Material de Semestres anteriores
+
+[Link para arquivo da Wikiversidade](https://pt.wikiversity.org/wiki/Gerência_de_Configuração_e_Evolução_de_Software#Critérios_de_Avaliação)
