@@ -67,3 +67,7 @@ A nota final será a soma da nota individual com a nota de grupo, nas proporçõ
 ## Material de Semestres anteriores
 
 [Link para arquivo da Wikiversidade](https://pt.wikiversity.org/wiki/Gerência_de_Configuração_e_Evolução_de_Software#Critérios_de_Avaliação)
+
+## Lista de Projetos 2021/1
+
+[Acesse a lista de Projetos de 2021/1](https://github.com/FGA-GCES/A-disciplina/blob/master/Projetos_2021_1.md)
