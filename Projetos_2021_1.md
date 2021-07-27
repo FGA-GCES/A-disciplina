@@ -12,11 +12,6 @@ A seguir está a lista de projetos, em ordem alfabética, que estarão sendo tra
 - Repositório Oficial: https://github.com/kubernetes/sig-release/blob/master/release-team/README.md
 - Meta Coach: Ricardo/Severo 
 
-## Projeto: Ingress-Nginx
-repo: https://github.com/kubernetes/ingress-nginx
-Website: https://kubernetes.github.io/ingress-nginx/
-Slack: https://kubernetes.slack.com/messages/ingress-nginx-dev
-
 - - -
 
 ## Projeto: Kubernetes
