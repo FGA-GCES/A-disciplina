@@ -12,21 +12,21 @@ A seguir está a lista de projetos, em ordem alfabética, que estarão sendo tra
 - Repositório Oficial: https://github.com/kubernetes/sig-release/blob/master/release-team/README.md
 - Meta Coach: Ricardo/Severo 
 
-Projeto: Ingress-Nginx
+## Projeto: Ingress-Nginx
 repo: https://github.com/kubernetes/ingress-nginx
 Website: https://kubernetes.github.io/ingress-nginx/
 Slack: https://kubernetes.slack.com/messages/ingress-nginx-dev
 
 - - -
 
-Projeto: Kubernetes
+## Projeto: Kubernetes
 repo: https://github.com/kubernetes/kubernetes
 Website: http://kubernetes.io/docs
 Slack: https://kubernetes.slack.com/
 
 - - - 
 
-Projeto: Kubernetes Release team (shadow)
+## Projeto: Kubernetes Release team (shadow)
 
 Infos: 
 Kubernetes 1.23 Release Team Shadow applications are open and are due by August 13th, 2021.Application Form: https://forms.gle/7As7hacvMhxBQaox8Ref: https://groups.google.com/g/kubernetes-dev/c/1qhV3s9pvKw/m/VzG_E98oBAAJ
