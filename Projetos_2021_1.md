@@ -2,8 +2,6 @@
 
 A seguir está a lista de projetos, em ordem alfabética, que estarão sendo trabalhando na disciplina ao longo do 1º Semestre de 2021.
 
-[ToC]
-
 ## External Secrets Operator
 - Página de Documentação: https://external-secrets.io  
 - Repositório Oficial: https://github.com/external-secrets/external-secrets  
@@ -15,7 +13,6 @@ A seguir está a lista de projetos, em ordem alfabética, que estarão sendo tra
 - Bug Traker/ Issues: https://bugs.kde.org/describecomponents.cgi?product=kate
 - Meta Coach: Tomaz Canabrava
   
-
 ## Rasa
 - Página Oficial: https://rasa.com  
 - Repositório Oficial: https://github.com/RasaHQ   
