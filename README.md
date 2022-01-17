@@ -12,9 +12,41 @@
 
 ## 2 - Plano de Aulas
 
-|            |       |
-| :--------: |:------|
-| 20/07/2021 | Apresentação da disciplina <br> Definição da dinâmica do curso  |
+| Data | Dia da Semana | Aula |
+| :--------: | :--------: |:------|
+| 18/01/2022 | Terça-feira  | Apresentação da disciplina <br> Definição da dinâmica do curso <br> Aula: Revisão de Git avançado|
+| 20/01/2022 | Quinta-feira | Introdução à Gerência de Configuração <br> Apresentação dos Projetos <br> Questionário de Perfil das Equipes |
+| 25/01/2022 | Terça-feira  | Definição das equipes <br> Iniciar a configuração dos ambientes dos projetos |
+| 27/01/2022 | Quinta-feira | Finalizar ambientes dos projetos <br> Planejamento ágil <br> Levantamento do backlog dos projetos |
+| 01/02/2022 | Terça-feira  | Início Sprint 1 |
+| 03/02/2022 | Quinta-feira | Aula: Controle de versão e desenvolvimento colaborativo |
+| 08/02/2022 | Terça-feira  | Aula: Integração Contínua |
+| 10/02/2022 | Quinta-feira | Show me the code - Sprint 1 |
+| 15/02/2022 | Terça-feira  | Início Sprint 2 <br> Aula: Automação da Build <br> Automação da Configuração do Ambiente|
+| 17/02/2022 | Quinta-feira | Acompanhamento da Sprint 2 |
+| 22/02/2022 | Terça-feira  | Aula: DevOps |
+| 24/02/2022 | Quinta-feira | Show me the code - Sprint 2 |
+| 01/03/2022 | Terça-feira  | Início Sprint 3 <br> *Feriado* |
+| 03/03/2022 | Quinta-feira | Aula: Isolamento de Ambiente |
+| 08/03/2022 | Terça-feira  | Aula: Orquestradores / Kubernetes  |
+| 10/03/2022 | Quinta-feira | Show me the code - Sprint 3 <br> **Apresentação do Enunciado do Trabalho Individual** |
+| 15/03/2022 | Terça-feira  | Aula: Licenças de software livre |
+| 17/03/2022 | Quinta-feira | Aula: Aula: Copyright, patentes e aspectos legais |
+| 22/03/2022 | Terça-feira  | Acompanhamento Trabalho Individual |
+| 24/03/2022 | Quinta-feira | **Entrega do Trabalho Individual (27/03/2022)** |
+| 29/03/2022 | Terça-feira  | Início Sprint 4 <br> Aula: Clean Code |
+| 31/03/2022 | Quinta-feira | Aula: SOLID |
+| 05/04/2022 | Terça-feira  | Acompanhamento da Sprint 4 |
+| 07/04/2022 | Quinta-feira | Show me the code - Sprint 4 |
+| 12/04/2022 | Terça-feira  | Início Sprint 5 <br> |
+| 14/04/2022 | Quinta-feira | Palestra 1 |
+| 19/04/2022 | Terça-feira  | Palestra 2 |
+| 21/04/2022 | Quinta-feira | *Feriado*
+| 26/04/2022 | Terça-feira  | Show me the code - Sprint 5 |
+| 28/04/2022 | Quinta-feira | Sprint de Dívidas Técnicas |
+| 03/05/2022 | Terça-feira  | Sprint de Dívidas Técnicas |
+| 05/05/2022 | Quinta-feira | Apresentação final dos projetos |
+<!-- | 20/07/2021 | Apresentação da disciplina <br> Definição da dinâmica do curso  |
 | 22/07/2021 | Introdução à Gerência de Configuração <br> Apresentação dos Projetos <br> Questionário de Perfil das Equipes |
 | 27/07/2021 | Definição das equipes <br> Iniciar a configuração dos ambientes dos rojetos |
 | 29/07/2021 | Finalizar ambientes dos projetos <br> Planejamento ágil <br> Levantamento do backlog dos projetos |
@@ -45,7 +77,7 @@
 | 26/10/2021 | Sprint de Dívidas Técnicas |
 | 28/10/2021 | Sprint de Dívidas Técnicas |
 | 02/11/2021 | *Feriado* |
-| 04/11/2021 | Apresentação final dos projetos |
+| 04/11/2021 | Apresentação final dos projetos | -->
 
 ## Critérios de Avaliação
 
@@ -70,4 +102,6 @@ A nota final será a soma da nota individual com a nota de grupo, nas proporçõ
 
 ## Lista de Projetos 2021/1
 
-[Acesse a lista de Projetos de 2021/1](https://github.com/FGA-GCES/A-disciplina/blob/master/Projetos_2021_1.md)
+<!-- [Acesse a lista de Projetos de 2021/1](https://github.com/FGA-GCES/A-disciplina/blob/master/Projetos_2021_1.md) -->
+
+[Acesse a lista de Projetos de 2021/2](https://github.com/FGA-GCES/A-disciplina/blob/master/Projetos_2021_2.md)
