@@ -29,6 +29,12 @@ Kubernetes 1.23 Release Team Shadow applications are open and are due by August 
 
  -->
  
+ ## Kubernetes 1.23 Release Team Shadow applications - pre requisito: confortável em falar ingles
+- Página de Documentação: https://forms.gle/7As7hacvMhxBQaox8Ref https://groups.google.com/g/kubernetes-dev/c/1qhV3s9pvKw/m/VzG_E98oBAAJ
+- Repositório Oficial: https://github.com/kubernetes/sig-release/blob/master/release-team/README.md
+- Meta Coach: Ricardo/Severo 
+
+ 
 ## Jandig
  - Repositório Oficial: https://github.com/memeLab/Jandig
  - Meta Coach: Pablo / Rodrigo
