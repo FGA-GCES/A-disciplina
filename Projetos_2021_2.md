@@ -29,10 +29,16 @@ Kubernetes 1.23 Release Team Shadow applications are open and are due by August 
 
  -->
  
+## Jandig
+ - Repositório Oficial: https://github.com/memeLab/Jandig
+ - Meta Coach: Pablo / Rodrigo
+ - Fork da equipe: https://github.com/gces-jandig-2020-2/Jandig
+ - Wiki da equipe: https://github.com/gces-jandig-2020-2/Jandig/wiki/
+ 
 ## Houdini
 - Repositório Oficial: https://github.com/houdiniproject/houdini
 - Meta Coach:Clarissa borges
-- 
+
 ## Debian Image Finder
 - Repositório Oficial: https://salsa.debian.org/cloud-team/image-finder
 - Documentação: https://cloud-team.pages.debian.net/image-finder/
