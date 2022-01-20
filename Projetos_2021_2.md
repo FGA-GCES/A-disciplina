@@ -27,10 +27,12 @@ Infos:
 Kubernetes 1.23 Release Team Shadow applications are open and are due by August 13th, 2021.Application Form: https://forms.gle/7As7hacvMhxBQaox8Ref: https://groups.google.com/g/kubernetes-dev/c/1qhV3s9pvKw/m/VzG_E98oBAAJ
 
 
+ -->
+ 
 ## Houdini
 - Repositório Oficial: https://github.com/houdiniproject/houdini
-- Meta Coach:Clarissa borges -->
-
+- Meta Coach:Clarissa borges
+- 
 ## Debian Image Finder
 - Repositório Oficial: https://salsa.debian.org/cloud-team/image-finder
 - Documentação: https://cloud-team.pages.debian.net/image-finder/
