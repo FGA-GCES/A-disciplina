@@ -11,8 +11,44 @@
 - Sustentação de software
 
 ## 2 - Plano de Aulas
-
 | Data | Dia da Semana | Aula |
+| :--------: | :--------: |:------|
+| 25/10/2022 | Terça-feira  | Apresentação da disciplina <br> Definição da dinâmica do curso <br> Introdução à Gerência de Configuração |
+| 27/10/2022 | Quinta-feira | Aula: Revisão de Git avançado |
+| 1/11/2022 | Terça-feira  | Desenvolvimento colaborativo | 
+| 3/11/2022 | Quinta-feira | Apresentação dos Projetos <br> Questionário de Perfil das Equipes |
+| 8/11/2022 | Terça-feira  | Definição das equipes <br> Iniciar a configuração dos ambientes dos projetos |
+| 10/11/2022 | Quinta-feira | Finalizar ambientes dos projetos <br> Planejamento ágil <br> Levantamento do backlog dos projetos |
+| 15/11/2022 | Terça-feira  | Início da Sprint 1 |
+| 17/11/2022 | Quinta-feira | Aula: Controle de versão e desenvolvimento colaborativo |  
+| 22/11/2022 | Terça-feira  | Aula: Integração Contínua |
+| 24/11/2022 | Quinta-feira | Show me the code - Sprint 1 |
+| 29/11/2022 | Terça-feira  | Início da Sprint 2 <br> Aula: Automação da Build <br> Automação da Configuração do Ambiente|
+| 1/12/2022 | Quinta-feira | Acompanhamento da Sprint 2 |
+| 6/12/2022 | Terça-feira  | Aula: DevOps |
+| 8/12/2022 | Quinta-feira | Show me the code - Sprint 2 |
+| 13/12/2022 | Terça-feira  | Início Sprint 3 |
+| 15/12/2022 | Quinta-feira | Aula: Isolamento de Ambiente |
+| 20/12/2022 | Terça-feira  | Aula: Orquestradores / Kubernetes  |
+| 22/12/2022 | Quinta-feira | Show me the code - Sprint 3 <br> **Apresentação do Enunciado do Trabalho Individual** |
+| 27/12/2022 | Terça-feira  | Aula: Licenças de software livre |
+| 29/12/2022 | Quinta-feira | Aula: Aula: Copyright, patentes e aspectos legais |
+| 3/1/2023 | Terça-feira  | Acompanhamento Trabalho Individual |
+| 5/1/2023 | Quinta-feira | **Entrega do Trabalho Individual (21/08/2022)** |
+| 10/1/2023 | Terça-feira  | Início da Sprint 4 <br> Aula: Clean Code |
+| 12/1/2023 | Quinta-feira | Aula: SOLID |
+| 17/1/2023 | Terça-feira  | Acompanhamento da Sprint 4 |
+| 19/1/2023 | Quinta-feira | Show me the code - Sprint 4 |
+| 24/1/2023 | Terça-feira  | Início da Sprint 5 <br> |
+| 26/1/2023 | Quinta-feira | Palestra 1 |
+| 31/1/2023 | Terça-feira  | Palestra 2 |
+| 2/2/2023 | Quinta-feira | Show me the code - Sprint 5 |
+| 7/2/2023 | Terça-feira  | Solução de Dívidas Técnicas |
+| 9/2/2023 | Quinta-feira | Apresentação final dos projetos |
+
+
+<!-- 2022-1 -->
+<!-- | Data | Dia da Semana | Aula |
 | :--------: | :--------: |:------|
 | 07/06/2022 | Terça-feira  | Apresentação da disciplina <br> Definição da dinâmica do curso <br> Introdução à Gerência de Configuração |
 | 09/06/2022 | Quinta-feira | Aula: Revisão de Git avançado |
@@ -45,7 +81,7 @@
 | 13/09/2022 | Terça-feira  | Palestra 2 |
 | 15/09/2022 | Quinta-feira | Show me the code - Sprint 5 |
 | 20/09/2022 | Terça-feira  | Solução de Dívidas Técnicas |
-| 22/09/2022 | Quinta-feira | Apresentação final dos projetos |
+| 22/09/2022 | Quinta-feira | Apresentação final dos projetos | -->
 
 <!-- 2021-2 -->
 <!-- | Data | Dia da Semana | Aula |
