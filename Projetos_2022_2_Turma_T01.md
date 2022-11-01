@@ -28,10 +28,9 @@ A seguir está a lista de projetos, em ordem alfabética, que estarão sendo tra
 
 
 
-# Projetos 2022/3 - Turma T02 - Prof. Renato Coral
-<!-- 
-Renato, se quiser usar
-## Kdenlive (KDE)
+# Projetos 2022/2 - Turma T02 - Prof. Renato Coral
+
+<!-- ## Kdenlive (KDE)
 - Página de Oficial: https://kdenlive.org/en/
 - Repositório Oficial: https://invent.kde.org/multimedia/kdenlive
 - Bug Traker/ Issues: https://bugs.kde.org/buglist.cgi?product=kdenlive
@@ -40,7 +39,7 @@ Renato, se quiser usar
 ## Rocs (KDE)
 - Página de Oficial: https://apps.kde.org/pt-br/rocs/
 - Repositório Oficial: https://invent.kde.org/education/rocs
-- Meta Coach: Tomaz Canabrava
+- Meta Coach: Tomaz Canabrava -->
 
 ## SiGeD - Sistema de Gerenciamento de Demandas
 - Página de Oficial: https://fga-eps-mds.github.io/2020-2-SiGeD/
@@ -56,4 +55,3 @@ Renato, se quiser usar
 ## Atlas of Opportunity
 - Repositório Oficial: https://github.com/gpmc-lab-ufrgs/atlas  
 - Meta-Coach: Leonardo Gomes
--->
