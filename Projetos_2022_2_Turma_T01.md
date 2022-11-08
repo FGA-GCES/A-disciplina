@@ -42,9 +42,8 @@ A seguir está a lista de projetos, em ordem alfabética, que estarão sendo tra
 - Meta Coach: Tomaz Canabrava
 
 ## SiGeD - Sistema de Gerenciamento de Demandas
-- Página de Oficial: https://fga-eps-mds.github.io/2020-2-SiGeD/
-- Página de Documentação: https://fga-eps-mds.github.io/2020-2-SiGeD/home/  
 - Repositório Oficial: https://github.com/DITGO     
+- Página de Documentação: [https://fga-eps-mds.github.io/2020-2-SiGeD/home/](https://fga-eps-mds.github.io/2021-2-SiGeD-Doc/)  
 - Meta Coach: Bruno Vidal
   
 ## Sistema de Gestão Energética (SIGE)
