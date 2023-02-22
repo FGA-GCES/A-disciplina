@@ -165,11 +165,12 @@
 
 |  Nota Individual    | Peso total 70% |
 |  ---  | :---: |
-|  Trabalhos Individuais  | 30% |
+|  Trabalhos Individuais*  | 30% |
 |  Apresentações individuais | 10% |
 |  Contribuições individuais | 30% |
 
 A nota final será a soma da nota individual com a nota de grupo, nas proporções indicadas acima.
+* Obs: A entrega do Trabalho Individual é obrigatória para a aprovação do aluno.
 
 ## Material de Semestres anteriores
 
