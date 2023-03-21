@@ -35,7 +35,7 @@ Projeto de MDS para gestão de caronas na fga
 
 
 
-# Projetos 2022/2 - Turma T02 - Prof. Renato Coral
+# Projetos 2023/1 - Turma T02 - Prof. Renato Coral
 
 ## Kdenlive (KDE)
 - Página de Oficial: https://kdenlive.org/en/
