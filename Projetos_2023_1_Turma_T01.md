@@ -9,6 +9,10 @@ A seguir está a lista de projetos, em ordem alfabética, que estarão sendo tra
 - Website: http://kubernetes.io/docs
 - Slack: https://kubernetes.slack.com/
 - Meta Coach: Ricardo/Severo/Marcos 
+# Stackoverflow Mining
+
+[https://github.com/gianlucascoccia/MSR2021Replication](https://github.com/gianlucascoccia/MSR2021Replication)
+
 
 ## Jandig
  - Repositório Oficial: https://github.com/memeLab/Jandig
