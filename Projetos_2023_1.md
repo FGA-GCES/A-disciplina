@@ -2,16 +2,15 @@
 
 A seguir está a lista de projetos, em ordem alfabética, que estarão sendo trabalhando na disciplina ao longo do 1º Semestre de 2023.
 
-## Kubernets
-- Página de Documentação: https://forms.gle/7As7hacvMhxBQaox8Ref https://groups.google.com/g/kubernetes-dev/c/1qhV3s9pvKw/m/VzG_E98oBAAJ
-- Repositório Oficial: https://github.com/kubernetes/sig-release/blob/master/release-team/README.md
-- repo: https://github.com/kubernetes/kubernetes
-- Website: http://kubernetes.io/docs
-- Slack: https://kubernetes.slack.com/
-- Meta Coach: Ricardo/Severo/Marcos 
+## Decidim
+
+- [https://github.com/decidim/decidim](https://github.com/decidim/decidim)
+
+
+
 # Stackoverflow Mining
 
-[https://github.com/gianlucascoccia/MSR2021Replication](https://github.com/gianlucascoccia/MSR2021Replication)
+- [https://github.com/gianlucascoccia/MSR2021Replication](https://github.com/gianlucascoccia/MSR2021Replication)
 
 
 ## Jandig
