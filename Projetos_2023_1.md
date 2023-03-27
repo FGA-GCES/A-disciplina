@@ -4,11 +4,19 @@ A seguir está a lista de projetos, em ordem alfabética, que estarão sendo tra
 
 ## Decidim
 
+O Decidim é uma estrutura de democracia participativa, escrita em Ruby on Rails e originalmente desenvolvida para o website de participação online e offline do governo da cidade de Barcelona.
+
+Esforço da comunidade de Software Livre do brasil para adaptar para a realidade brasileira
+
 - [https://github.com/decidim/decidim](https://github.com/decidim/decidim)
 
 
 
 # Stackoverflow Mining
+
+Projeto de TCC DA Gabi guedes. Essa solução permite utilizar processamento de linguagem natural para identificar temas recorrentes no stackoverflow. 
+Ainte tem uma etapa manual nesse processo, que é a extração das conversas no stackoverflow. O objetivo é automatizar o pipeline para diversos contextos.
+
 
 - [https://github.com/gianlucascoccia/MSR2021Replication](https://github.com/gianlucascoccia/MSR2021Replication)
 
