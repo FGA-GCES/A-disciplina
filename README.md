@@ -13,6 +13,47 @@
 ## 2 - Plano de Aulas
 | Data | Dia da Semana | Aula |
 | :--------: | :--------: |:------|
+| 28/03/2023 | Terça-feira  | Apresentação da disciplina <br> Definição da dinâmica do curso <br> Introdução à Gerência de Configuração |
+| 30/03/2023 | Quinta-feira | Aula: Revisão de Git avançado |
+| 04/04/2023 | Terça-feira  | Desenvolvimento colaborativo | 
+| 06/04/2023 | Quinta-feira | Apresentação dos Projetos <br> Questionário de Perfil das Equipes |
+| 11/04/2023 | Terça-feira  | Definição das equipes <br> Iniciar a configuração dos ambientes dos projetos |
+| 13/04/2023 | Quinta-feira | Finalizar ambientes dos projetos <br> Planejamento ágil <br> Levantamento do backlog dos projetos |
+| 18/04/2023 | Terça-feira  | Início da Sprint 1 |
+| 20/04/2023 | Quinta-feira | Aula: Controle de versão e desenvolvimento colaborativo |  
+| 25/04/2023 | Terça-feira  | Aula: Integração Contínua |
+| 27/04/2023 | Quinta-feira | Show me the code - Sprint 1 |
+| 02/05/2023 | Terça-feira  | Início da Sprint 2 <br> Aula: Automação da Build <br> Automação da Configuração do Ambiente|
+| 04/05/2023 | Quinta-feira | Acompanhamento da Sprint 2 |
+| 07/05/2023 | Terça-feira  | Aula: DevOps |
+| 09/05/2023 | Quinta-feira | Show me the code - Sprint 2 |
+| 11/05/2023 | Terça-feira  | Início Sprint 3 |
+| 16/05/2023 | Quinta-feira | Aula: Isolamento de Ambiente |
+| 18/05/2023 | Terça-feira  | Aula: Orquestradores / Kubernetes  |
+| 23/05/2023 | Quinta-feira | Show me the code - Sprint 3 <br> **Apresentação do Enunciado do Trabalho Individual** |
+| 25/05/2023 | Terça-feira  | Aula: Licenças de software livre |
+| 30/05/2023 | Quinta-feira | Aula: Aula: Copyright, patentes e aspectos legais |
+| 01/06/2023 | Terça-feira  | Acompanhamento Trabalho Individual |
+| 06/06/2023 | Quinta-feira | **Entrega do Trabalho Individual (07/06/2023)** |
+| 08/06/2023 | Terça-feira  | Início da Sprint 4 <br> Aula: Clean Code |
+| 13/06/2023 | Quinta-feira | Aula: SOLID |
+| 15/06/2023 | Terça-feira  | Acompanhamento da Sprint 4 |
+| 18/06/2023 | Quinta-feira | Show me the code - Sprint 4 |
+| 20/06/2023 | Terça-feira  | Início da Sprint 5 <br> |
+| 22/06/2023 | Quinta-feira | Palestra 1 |
+| 27/06/2023 | Terça-feira  | Palestra 2 |
+| 29/06/2023 | Quinta-feira | Show me the code - Sprint 5 |
+| 04/07/2023 | Terça-feira  | Início da Sprint 6 <br> |
+| 06/07/2023 | Quinta-feira | Acompanhamento da Sprint 6 |
+| 11/07/2023 | Terça-feira  | Acompanhamento da Sprint 6 |
+| 13/07/2023 | Quinta-feira | Show me the code - Sprint 6 |
+| 18/07/2023 | Terça-feira  | Solução de Dívidas Técnicas |
+| 20/07/2023 | Quinta-feira | Apresentação final dos projetos |
+
+
+<!-- 2022-2 -->
+<!-- | Data | Dia da Semana | Aula |
+| :--------: | :--------: |:------|
 | 25/10/2022 | Terça-feira  | Apresentação da disciplina <br> Definição da dinâmica do curso <br> Introdução à Gerência de Configuração |
 | 27/10/2022 | Quinta-feira | Aula: Revisão de Git avançado |
 | 1/11/2022 | Terça-feira  | Desenvolvimento colaborativo | 
@@ -44,7 +85,7 @@
 | 31/1/2023 | Terça-feira  | Palestra 2 |
 | 2/2/2023 | Quinta-feira | Show me the code - Sprint 5 |
 | 7/2/2023 | Terça-feira  | Solução de Dívidas Técnicas |
-| 9/2/2023 | Quinta-feira | Apresentação final dos projetos |
+| 9/2/2023 | Quinta-feira | Apresentação final dos projetos | -->
 
 
 <!-- 2022-1 -->
@@ -176,10 +217,10 @@ A nota final será a soma da nota individual com a nota de grupo, nas proporçõ
 
 [Link para arquivo da Wikiversidade](https://pt.wikiversity.org/wiki/Gerência_de_Configuração_e_Evolução_de_Software#Critérios_de_Avaliação)
 
-## Lista de Projetos 2021/1
+## Lista de Projetos 2023/1
 
 <!-- [Acesse a lista de Projetos de 2021/1](https://github.com/FGA-GCES/A-disciplina/blob/master/Projetos_2021_1.md) -->
 
 <!-- [Acesse a lista de Projetos de 2021/2](https://github.com/FGA-GCES/A-disciplina/blob/master/Projetos_2021_2.md)-->
 
-[Acesse a lista de Projetos de 2022/2](https://github.com/FGA-GCES/A-disciplina/blob/master/Projetos_2022_2_Turma_T01.md)
+<!-- [Acesse a lista de Projetos de 2022/2](https://github.com/FGA-GCES/A-disciplina/blob/master/Projetos_2022_2_Turma_T01.md) -->
