@@ -44,11 +44,11 @@ Projeto de MDS para gestão de caronas na fga
 
 # Projetos 2023/1 - Turma T02 - Prof. Renato Coral
 
-## Kdenlive (KDE)
+<!-- ## Kdenlive (KDE)
 - Página de Oficial: https://kdenlive.org/en/
 - Repositório Oficial: https://invent.kde.org/multimedia/kdenlive
 - Bug Traker/ Issues: https://bugs.kde.org/buglist.cgi?product=kdenlive
-- Meta Coach: Farid Abdelnour 
+- Meta Coach: Farid Abdelnour  -->
 
 ## Rocs (KDE)
 - Página de Oficial: https://apps.kde.org/pt-br/rocs/
