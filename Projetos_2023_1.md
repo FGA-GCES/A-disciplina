@@ -65,10 +65,9 @@ Projeto de MDS para gestão de caronas na fga
 - Repositório Oficial: https://gitlab.com/lappis-unb/projects/SMI  
 - Meta-Coach: Renato Sampaio
 
-## Atlas of Opportunity
-- Repositório Oficial: https://github.com/gpmc-lab-ufrgs/atlas  
-- Repositório do Backend: https://github.com/gpmc-lab-ufrgs/atlas-backend
-- Meta-Coach: Leonardo Gomes
+## Sistema de Recomendação de Contratos
+- Repositório Oficial: [https://github.com/gpmc-lab-ufrgs/atlas](https://gitlab.com/lappis-unb/projects/mec-energia)  
+- Meta-Coach: Bruno Felix
 
 # Questionário de Seleção de Projetos (Turma Renato Sampaio)
 
