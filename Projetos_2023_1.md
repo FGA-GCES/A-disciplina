@@ -55,6 +55,14 @@ Projeto de MDS para gestão de caronas na fga
 - Repositório Oficial: https://invent.kde.org/education/rocs
 - Meta Coach: Tomaz Canabrava
 
+## Open Worldwide Application Security Project (OWASP)
+- Página Oficial: https://owasp.org/projects/
+- Projetos Sugeridos:   
+    - [Juice Shop](https://owasp.org/www-project-juice-shop/), 
+    - [Amass](https://owasp.org/www-project-amass/), 
+    - [ZAP](https://www.zaproxy.org/)
+- Meta-Coach: Vitor Falcão
+
 ## SiGeD - Sistema de Gerenciamento de Demandas
 - Repositório Oficial: https://github.com/DITGO     
 - Página de Documentação: [https://fga-eps-mds.github.io/2020-2-SiGeD/home/](https://fga-eps-mds.github.io/2021-2-SiGeD-Doc/)  
@@ -69,6 +77,7 @@ Projeto de MDS para gestão de caronas na fga
 - Repositório Oficial: [https://github.com/gpmc-lab-ufrgs/atlas](https://gitlab.com/lappis-unb/projects/mec-energia)  
 - Meta-Coach: Bruno Felix
 
+
 # Questionário de Seleção de Projetos (Turma Renato Sampaio)
 
-https://docs.google.com/forms/d/e/1FAIpQLSfOLfn1xRX9qar0II2TdD1UkBRjkyhskueY80cP0NtDL05rWg/viewform?usp=sf_link
+[https://docs.google.com/forms/d/e/1FAIpQLSfOLfn1xRX9qar0II2TdD1UkBRjkyhskueY80cP0NtDL05rWg/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSdHrgMdA8t26XmdCVzb4X41qGqvaVBpyCEQbcIBE5XRoOJ5vQ/viewform?usp=sf_link)
