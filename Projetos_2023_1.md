@@ -74,7 +74,7 @@ Projeto de MDS para gestão de caronas na fga
 - Meta-Coach: Renato Sampaio
 
 ## Sistema de Recomendação de Contratos
-- Repositório Oficial: [https://github.com/gpmc-lab-ufrgs/atlas](https://gitlab.com/lappis-unb/projects/mec-energia)  
+- Repositório Oficial: https://gitlab.com/lappis-unb/projects/contratos-energia
 - Página de Demonstação do Sistema: http://139.144.169.103/ (usuário: usuario@unb.br, senha: unb)
 - Meta-Coach: Bruno Felix
 
