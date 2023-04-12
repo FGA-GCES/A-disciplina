@@ -53,6 +53,7 @@ Projeto de MDS para gestão de caronas na fga
 ## Rocs (KDE)
 - Página de Oficial: https://apps.kde.org/pt-br/rocs/
 - Repositório Oficial: https://invent.kde.org/education/rocs
+- Linguagens: C++ / Framework de UI em QT
 - Meta Coach: Tomaz Canabrava
 
 ## Open Worldwide Application Security Project (OWASP)
@@ -66,16 +67,19 @@ Projeto de MDS para gestão de caronas na fga
 ## SiGeD - Sistema de Gerenciamento de Demandas
 - Repositório Oficial: https://github.com/DITGO     
 - Repositório de documentação e ISSUES: https://github.com/DITGO/2021-2-SiGeD-Doc/issues
+- Frontend: React / Backend: Node
 - Meta Coach: Bruno Vidal
   
 ## Sistema de Gestão Energética (SIGE)
 - Página Oficial: http://sige.unb.br  
 - Repositório Oficial: https://gitlab.com/lappis-unb/projects/SMI  
+- Frontend (Quasar / Vue.js) / Backend: DjangoREST
 - Meta-Coach: Renato Sampaio
 
 ## Sistema de Recomendação de Contratos
 - Repositório Oficial (Somente ISSUES): https://gitlab.com/lappis-unb/projects/contratos-energia
 - Página de Demonstação do Sistema: http://139.144.169.103/ (usuário: usuario@unb.br, senha: unb)
+- Frontend (NextJS - React) / Backend: DjangoREST
 - Meta-Coach: Bruno Felix
 
 
