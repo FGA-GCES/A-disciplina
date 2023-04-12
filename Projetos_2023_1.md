@@ -65,7 +65,7 @@ Projeto de MDS para gestão de caronas na fga
 
 ## SiGeD - Sistema de Gerenciamento de Demandas
 - Repositório Oficial: https://github.com/DITGO     
-- Página de Documentação: [https://fga-eps-mds.github.io/2020-2-SiGeD/home/](https://fga-eps-mds.github.io/2021-2-SiGeD-Doc/)  
+- Repositório de documentação e ISSUES: https://github.com/DITGO/2021-2-SiGeD-Doc/issues
 - Meta Coach: Bruno Vidal
   
 ## Sistema de Gestão Energética (SIGE)
@@ -75,9 +75,10 @@ Projeto de MDS para gestão de caronas na fga
 
 ## Sistema de Recomendação de Contratos
 - Repositório Oficial: [https://github.com/gpmc-lab-ufrgs/atlas](https://gitlab.com/lappis-unb/projects/mec-energia)  
+- Página de Demonstação do Sistema: http://139.144.169.103/ (usuário: usuario@unb.br, senha: unb)
 - Meta-Coach: Bruno Felix
 
 
 # Questionário de Seleção de Projetos (Turma Renato Sampaio)
 
-[https://docs.google.com/forms/d/e/1FAIpQLSfOLfn1xRX9qar0II2TdD1UkBRjkyhskueY80cP0NtDL05rWg/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSdHrgMdA8t26XmdCVzb4X41qGqvaVBpyCEQbcIBE5XRoOJ5vQ/viewform?usp=sf_link)
+[Questionário de Proejtos 2023/1](https://docs.google.com/forms/d/e/1FAIpQLSdHrgMdA8t26XmdCVzb4X41qGqvaVBpyCEQbcIBE5XRoOJ5vQ/viewform)
