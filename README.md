@@ -13,6 +13,44 @@
 ## 2 - Plano de Aulas
 | Data | Dia da Semana | Aula |
 | :--------: | :--------: |:------|
+| 29/08/2023 | Terça-feira  | Apresentação da disciplina <br> Definição da dinâmica do curso <br> Introdução à Gerência de Configuração |
+| 31/08/2023 | Quinta-feira | Aula: Revisão de Git avançado |
+| 05/09/2023 | Terça-feira  | Desenvolvimento colaborativo | 
+| 07/09/2023 | Quinta-feira | Feriado |
+| 12/09/2023 | Terça-feira  | Apresentação dos Projetos <br> Questionário de Perfil das Equipes |
+| 14/09/2023 | Quinta-feira | Definição das equipes <br> Iniciar a configuração dos ambientes dos projetos |
+| 19/09/2023 | Terça-feira  | Início da Sprint 1 <br> Finalizar ambientes dos projetos <br> Planejamento ágil <br> Levantamento do backlog dos projetos |
+| 21/09/2023 | Quinta-feira | Aula: Integração Contínua
+| 26/09/2023 | Terça-feira  | Semana Universitária |
+| 28/09/2023 | Quinta-feira | Semana Universitária |
+| 03/10/2023 | Terça-feira  | Acompanhamento da Sprint 1 |
+| 05/10/2023 | Quinta-feira | Show me the code - Sprint 1 |
+| 10/10/2023 | Terça-feira  | Início da Sprint 2 <br> Aula: Automação da Build <br> Automação da Configuração do Ambiente|
+| 12/10/2023 | Quinta-feira | Feriado |
+| 17/10/2023 | Terça-feira  | Aula: DevOps |
+| 19/10/2023 | Quinta-feira | Show me the code - Sprint 2 |
+| 24/10/2023 | Terça-feira  | Início Sprint 3 |
+| 26/10/2023 | Quinta-feira | Aula: Isolamento de Ambiente |
+| 31/10/2023 | Terça-feira  | Aula: Orquestradores / Kubernetes  |
+| 02/11/2023 | Quinta-feira | Feriado |
+| 07/11/2023 | Terça-feira  | Show me the code - Sprint 3 <br> Início da Sprint 4 |
+| 09/11/2023 | Quinta-feira | Aula: Licenças de software livre |
+| 14/11/2023 | Terça-feira  | Aula: Aula: Copyright, patentes e aspectos legais |
+| 16/11/2023 | Quinta-feira | Show me the code - Sprint 4 |
+| 21/11/2023 | Terça-feira  | Início da Sprint 5 <br> Aula: Clean Code |
+| 23/11/2023 | Quinta-feira | Aula: SOLID |
+| 28/11/2023 | Terça-feira  | Acompanhamento da Sprint 5 |
+| 30/11/2023 | Quinta-feira | Show me the code - Sprint 5 <br> **Apresentação do Enunciado do Trabalho Individual** |
+| 05/12/2023 | Terça-feira  | Palestra 1 |
+| 07/12/2023 | Quinta-feira | Palestra 2  |
+| 12/12/2023 | Terça-feira  | Acompanhamento do Trabalho Individual |
+| 14/12/2023 | Quinta-feira | Acompanhamento do Trabalho Individual |
+| 19/12/2023 | Terça-feira  | Apresentação final dos projetos |
+
+
+
+<!--| Data | Dia da Semana | Aula |
+| :--------: | :--------: |:------|
 | 28/03/2023 | Terça-feira  | Apresentação da disciplina <br> Definição da dinâmica do curso <br> Introdução à Gerência de Configuração |
 | 30/03/2023 | Quinta-feira | Aula: Revisão de Git avançado |
 | 04/04/2023 | Terça-feira  | Desenvolvimento colaborativo | 
@@ -48,7 +86,7 @@
 | 11/07/2023 | Terça-feira  | Acompanhamento da Sprint 6 |
 | 13/07/2023 | Quinta-feira | Show me the code - Sprint 6 |
 | 18/07/2023 | Terça-feira  | Solução de Dívidas Técnicas |
-| 20/07/2023 | Quinta-feira | Apresentação final dos projetos |
+| 20/07/2023 | Quinta-feira | Apresentação final dos projetos |  -->
 
 
 <!-- 2022-2 -->
