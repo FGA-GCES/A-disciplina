@@ -37,8 +37,8 @@
 | 09/11/2023 | Quinta-feira | Aula: Licenças de software livre |
 | 14/11/2023 | Terça-feira  | Aula: Aula: Copyright, patentes e aspectos legais |
 | 16/11/2023 | Quinta-feira | Show me the code - Sprint 4 |
-| 21/11/2023 | Terça-feira  | Início da Sprint 5 <br> Aula: Clean Code |
-| 23/11/2023 | Quinta-feira | Aula: SOLID |
+| 21/11/2023 | Terça-feira  | Início da Sprint 5 <br> Aula: Clean Code / SOLID |
+| 23/11/2023 | Quinta-feira | Acompanhamento da Sprint 5 |
 | 28/11/2023 | Terça-feira  | Acompanhamento da Sprint 5 |
 | 30/11/2023 | Quinta-feira | Show me the code - Sprint 5 <br> **Apresentação do Enunciado do Trabalho Individual** |
 | 05/12/2023 | Terça-feira  | Palestra 1 |
