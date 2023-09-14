@@ -7,11 +7,11 @@ A seguir está a lista de projetos, em ordem alfabética, que estarão sendo tra
 O Decidim é uma estrutura de democracia participativa, escrita em Ruby on Rails e originalmente desenvolvida para o website de participação online e offline do governo da cidade de Barcelona.
 
 Esforço da comunidade de Software Livre do brasil para adaptar para a realidade brasileira
-- Meta Coach: Eduardo Nunes
-- Repositório: https://gitlab.com/lappis-unb/decidimbr
-- Página Oficial: https://brasilparticipativo.presidencia.gov.br/
-
+- Repositório: https://gitlab.com/lappis-unb/decidimbr  
+- Página Oficial: https://brasilparticipativo.presidencia.gov.br/  
 - Repositório do Upstream: [https://github.com/decidim/decidim](https://github.com/decidim/decidim
+- Linguagens: Ruby/CSS/JavaScript - Framework Ruby on Rails
+- Meta Coach: Eduardo Nunes  
 
 ## Rocs (KDE)
 - Página de Oficial: https://apps.kde.org/pt-br/rocs/
@@ -40,7 +40,7 @@ Esforço da comunidade de Software Livre do brasil para adaptar para a realidade
 - Meta-Coach: Renato Sampaio
 
 ## Sistema de Recomendação de Contratos
-- Repositório Oficial (Somente ISSUES): https://gitlab.com/lappis-unb/projects/contratos-energia
+- Repositório Oficial (Somente ISSUES): [https://gitlab.com/lappis-unb/projects/contratos-energia](https://gitlab.com/lappis-unb/projects/mec-energia)
 - Página de Demonstação do Sistema: http://energia.lappis.rocks (usuário: usuario@unb.br, senha: unb)
 - Frontend (NextJS - React) / Backend: DjangoREST
 - Meta-Coach: Bruno Felix
@@ -52,6 +52,7 @@ Esforço da comunidade de Software Livre do brasil para adaptar para a realidade
 ## ESO (External Secrets Operator) - Kubernetes
 - Página Oficial: https://external-secrets.io/latest/
 - Repositório: https://github.com/external-secrets/external-secrets
+- Linguagens: Go
 - Meta-Coach: Lucas Severo
 
 # Questionário de Seleção de Projetos
