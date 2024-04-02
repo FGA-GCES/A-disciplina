@@ -13,6 +13,42 @@
 ## 2 - Plano de Aulas
 | Data | Dia da Semana | Aula |
 | :--------: | :--------: |:------|
+| 19/03/2024 | Terça-feira  | Apresentação da disciplina <br> Definição da dinâmica do curso <br> Introdução à Gerência de Configuração |
+| 21/03/2024 | Quinta-feira | Aula: Revisão de Git avançado |
+| 26/03/2024 | Terça-feira  | Desenvolvimento colaborativo  |
+| 28/03/2024 | Quinta-feira | Aula: Integração Contínua |
+| 02/04/2024 | Terça-feira  | Aula: Automação da Build <br> Automação da Configuração do Ambiente |
+| 04/04/2024 | Quinta-feira | Apresentação dos Projetos <br> Questionário de Perfil das Equipes |
+| 09/04/2024 | Terça-feira  | Definição das equipes <br> Iniciar a configuração dos ambientes dos projetos |
+| 11/04/2024 | Quinta-feira | Acompanhamento de configuração dos projetos |
+| 16/04/2024 | Terça-feira  | Início da Sprint 1 <br> Finalizar ambientes dos projetos <br> Planejamento ágil <br> Levantamento do backlog dos projetos |
+| 18/04/2024 | Quinta-feira | Acompanhamento da Sprint 1 |
+| 23/04/2024 | Terça-feira  | Acompanhamento da Sprint 1 |
+| 25/04/2024 | Quinta-feira | Show me the code - Sprint 1 |
+| 30/04/2024 | Terça-feira  | Início da Sprint 2 <br> |
+| 02/05/2024 | Quinta-feira | Acompanhamento da Sprint 2 |
+| 07/05/2024 | Terça-feira  | Aula: DevOps |
+| 09/05/2024 | Quinta-feira | Show me the code - Sprint 2 |
+| 14/05/2024 | Terça-feira  | Início Sprint 3 |
+| 16/05/2024 | Quinta-feira | Aula: Isolamento de Ambiente |
+| 21/05/2024 | Terça-feira  | Aula: Orquestradores / Kubernetes  |
+| 23/05/2024 | Quinta-feira | Show me the code - Sprint 3 <br> Início da Sprint 4 |
+| 28/05/2024 | Terça-feira  | Início Sprint 4 |
+| 30/05/2024 | Quinta-feira | Feriado |
+| 04/06/2024 | Terça-feira  | Aula: Licenças de software livre <br> Aula: Aula: Copyright, patentes e aspectos legais |
+| 06/06/2024 | Quinta-feira | Show me the code - Sprint 4 / **Apresentação do Enunciado do Trabalho Individual** |
+| 11/06/2024 | Terça-feira  | Palestra 1 |
+| 13/06/2024 | Quinta-feira | Palestra 2 |
+| 18/06/2024 | Terça-feira  | Palestra 3 |
+| 20/06/2024 | Quinta-feira | Início da Sprint 5 <br> Aula: Clean Code / SOLID |
+| 25/06/2024 | Terça-feira  | Acompanhamento da Sprint 5 |
+| 27/06/2024 | Quinta-feira | Acompanhamento da Sprint 5 |
+| 02/07/2024 | Terça-feira  | Show me the code - Sprint 5 <br> |
+| 04/07/2024 | Quinta-feira | Dívidas Técnicas dos Projetos |
+| 09/07/2024 | Terça-feira  | Apresentação final dos projetos |
+
+<!-- | Data | Dia da Semana | Aula |
+| :--------: | :--------: |:------|
 | 29/08/2023 | Terça-feira  | Apresentação da disciplina <br> Definição da dinâmica do curso <br> Introdução à Gerência de Configuração |
 | 31/08/2023 | Quinta-feira | Aula: Revisão de Git avançado |
 | 05/09/2023 | Terça-feira  | Desenvolvimento colaborativo | 
@@ -45,7 +81,7 @@
 | 07/12/2023 | Quinta-feira | Palestra 2  |
 | 12/12/2023 | Terça-feira  | Acompanhamento do Trabalho Individual |
 | 14/12/2023 | Quinta-feira | Acompanhamento do Trabalho Individual |
-| 19/12/2023 | Terça-feira  | Apresentação final dos projetos |
+| 19/12/2023 | Terça-feira  | Apresentação final dos projetos | -->
 
 
 
