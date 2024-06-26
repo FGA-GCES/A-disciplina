@@ -21,31 +21,30 @@
 | 04/04/2024 | Quinta-feira | Apresentação dos Projetos <br> Questionário de Perfil das Equipes |
 | 09/04/2024 | Terça-feira  | Definição das equipes <br> Iniciar a configuração dos ambientes dos projetos |
 | 11/04/2024 | Quinta-feira | Acompanhamento de configuração dos projetos |
-| 16/04/2024 | Terça-feira  | Início da Sprint 1 <br> Finalizar ambientes dos projetos <br> Planejamento ágil <br> Levantamento do backlog dos projetos |
-| 18/04/2024 | Quinta-feira | Acompanhamento da Sprint 1 |
-| 23/04/2024 | Terça-feira  | Acompanhamento da Sprint 1 |
-| 25/04/2024 | Quinta-feira | Show me the code - Sprint 1 |
-| 30/04/2024 | Terça-feira  | Início da Sprint 2 <br> |
-| 02/05/2024 | Quinta-feira | Acompanhamento da Sprint 2 |
-| 07/05/2024 | Terça-feira  | Aula: DevOps |
-| 09/05/2024 | Quinta-feira | Show me the code - Sprint 2 |
-| 14/05/2024 | Terça-feira  | Início Sprint 3 |
-| 16/05/2024 | Quinta-feira | Aula: Isolamento de Ambiente |
-| 21/05/2024 | Terça-feira  | Aula: Orquestradores / Kubernetes  |
-| 23/05/2024 | Quinta-feira | Show me the code - Sprint 3 <br> Início da Sprint 4 |
-| 28/05/2024 | Terça-feira  | Início Sprint 4 |
-| 30/05/2024 | Quinta-feira | Feriado |
-| 04/06/2024 | Terça-feira  | Aula: Licenças de software livre <br> Aula: Aula: Copyright, patentes e aspectos legais |
-| 06/06/2024 | Quinta-feira | Show me the code - Sprint 4 / **Apresentação do Enunciado do Trabalho Individual** |
-| 11/06/2024 | Terça-feira  | Palestra 1 |
-| 13/06/2024 | Quinta-feira | Palestra 2 |
-| 18/06/2024 | Terça-feira  | Palestra 3 |
-| 20/06/2024 | Quinta-feira | Início da Sprint 5 <br> Aula: Clean Code / SOLID |
-| 25/06/2024 | Terça-feira  | Acompanhamento da Sprint 5 |
-| 27/06/2024 | Quinta-feira | Acompanhamento da Sprint 5 |
-| 02/07/2024 | Terça-feira  | Show me the code - Sprint 5 <br> |
-| 04/07/2024 | Quinta-feira | Dívidas Técnicas dos Projetos |
-| 09/07/2024 | Terça-feira  | Apresentação final dos projetos |
+| 15/04/2024 |  | Interrupção - Greve |
+| 27/06/2024 | Quinta-feira  | Início da Sprint 1 <br> Finalizar ambientes dos projetos <br> Planejamento ágil <br> Levantamento do backlog dos projetos |
+| 02/07/2024 | Terça-feira  | Acompanhamento da Sprint 1 |
+| 04/07/2024 | Quinta-feira | Show me the code - Sprint 1 |
+| 09/07/2024 | Terça-feira  | Início da Sprint 2 <br> |
+| 11/07/2024 | Quinta-feira | Acompanhamento da Sprint 2 |
+| 16/07/2024 | Terça-feira  | Aula: DevOps |
+| 18/07/2024 | Quinta-feira | Show me the code - Sprint 2 |
+| 23/07/2024 | Terça-feira  | Início Sprint 3 |
+| 25/07/2024 | Quinta-feira | Aula: Isolamento de Ambiente |
+| 30/07/2024 | Terça-feira  | Aula: Orquestradores / Kubernetes  |
+| 01/08/2024 | Quinta-feira | Show me the code - Sprint 3 <br> **Apresentação do Enunciado do Trabalho Individual** |
+| 06/08/2024 | Terça-feira  | Início Sprint 4 |
+| 08/08/2024 | Quinta-feira | Palestra 1 |
+| 13/08/2024 | Terça-feira  | Aula: Licenças de software livre <br> Aula: Aula: Copyright, patentes e aspectos legais |
+| 15/08/2024 | Quinta-feira | Show me the code - Sprint 4 |
+| 20/08/2024 | Terça-feira  | Início da Sprint 5 <br> Aula: Clean Code / SOLID |
+| 22/08/2024 | Quinta-feira | Palestra 2 |
+| 27/08/2024 | Terça-feira  | Acompanhamento da Sprint 5 |
+| 29/08/2024 | Quinta-feira | Show me the code - Sprint 5 |
+| 03/09/2024 | Terça-feira  | Dívidas Técnicas dos Projetos |
+| 05/09/2024 | Quinta-feira | Dívidas Técnicas dos Projetos |
+| 10/09/2024 | Terça-feira  | Apresentação final dos projetos |
+| 12/09/2024 | Quinta-feira | Revisão de Notas |
 
 <!-- | Data | Dia da Semana | Aula |
 | :--------: | :--------: |:------|
