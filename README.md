@@ -34,11 +34,11 @@
 | 30/07/2024 | Terça-feira  | Aula: Orquestradores / Kubernetes  |
 | 01/08/2024 | Quinta-feira | Show me the code - Sprint 3 <br> **Apresentação do Enunciado do Trabalho Individual** |
 | 06/08/2024 | Terça-feira  | Início Sprint 4 |
-| 08/08/2024 | Quinta-feira | Palestra 1 |
-| 13/08/2024 | Terça-feira  | Aula: Licenças de software livre <br> Aula: Aula: Copyright, patentes e aspectos legais |
-| 15/08/2024 | Quinta-feira | Show me the code - Sprint 4 |
-| 20/08/2024 | Terça-feira  | Início da Sprint 5 <br> Aula: Clean Code / SOLID |
-| 22/08/2024 | Quinta-feira | Palestra 2 |
+| 08/08/2024 | Quinta-feira | Aula: Licenças de software livre <br> Aula: Aula: Copyright, patentes e aspectos legais |
+| 13/08/2024 | Terça-feira  | Palestra 1 |
+| 15/08/2024 | Quinta-feira | Palestra 2  |
+| 20/08/2024 | Terça-feira  | Show me the code - Sprint 4 <br> Início da Sprint 5 |
+| 22/08/2024 | Quinta-feira | Aula: Clean Code / SOLID |
 | 27/08/2024 | Terça-feira  | Acompanhamento da Sprint 5 |
 | 29/08/2024 | Quinta-feira | Show me the code - Sprint 5 |
 | 03/09/2024 | Terça-feira  | Dívidas Técnicas dos Projetos |
