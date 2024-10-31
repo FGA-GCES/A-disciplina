@@ -1,6 +1,6 @@
 # Projetos 2024/2
 
-A seguir está a lista de projetos, em ordem alfabética, que estarão sendo trabalhando na disciplina ao longo do 1º Semestre de 2024.
+A seguir está a lista de projetos, em ordem alfabética, que estarão sendo trabalhando na disciplina ao longo do 2º Semestre de 2024.
 
 ## Decidim Awesome
 
@@ -27,7 +27,7 @@ Módulo de Mapas para o Decidim
     - [Juice Shop](https://owasp.org/www-project-juice-shop/), 
     - [Amass](https://owasp.org/www-project-amass/), 
     - [ZAP](https://www.zaproxy.org/)
-- Meta-Coach: Vitor Falcão
+- Meta-Coach: Rodolfo Cabral Neves
 
 ## MEPA - Contratos - Sistema de Recomendação de Contratos
 - Repositório Oficial: https://gitlab.com/lappis-unb/projetos-energia/mec-energia 
