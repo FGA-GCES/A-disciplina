@@ -46,8 +46,7 @@
 | 04/02/2025 | Terça-feira  | Início da Sprint 6 - Dívidas Técnicas do Projetos|
 | 06/02/2025 | Quinta-feira | Palestra 1 |
 | 11/02/2025 | Terça-feira  | Palestra 2 |
-| 13/02/2025 | Quinta-feira | Dívidas Técnicas dos Projetos |
-| 18/02/2025 | Terça-feira  | Apresentação final dos projetos |
+| 13/02/2025 | Terça-feira  | Apresentação final dos projetos |
 | 20/02/2025 | Quinta-feira | Revisão de Notas |
 
 
