@@ -39,8 +39,8 @@
 | 28/05/2025 | Quarta-feira     | Palestra 1                                                           |
 | 02/06/2025 | Segunda-feira    | **ReleaseII**                                                            |
 | 04/06/2025 | Quarta-feira     | Acompanhamento                    |
-| 09/06/2025 | Segunda-feira    | Aula: Clean Code / SOLID                                             |
-| 11/06/2025 | Quarta-feira     | Acompanhamento                                           |
+| 09/06/2025 | Segunda-feira    | Entrega Trabalho Individual                                         |
+| 11/06/2025 | Quarta-feira     | Aula: Clean Code / SOLID                                             |
 | 16/06/2025 | Segunda-feira    | Acompanhamento                                        |
 | 18/06/2025 | Quarta-feira     | Dívidas Técnicas dos Projetos                                        |
 | 23/06/2025 | Segunda-feira    | Dívidas Técnicas dos Projetos / Fechamento                           |
@@ -316,8 +316,8 @@
   
 |  Nota Individual    | Peso total 70% |
 |  ---  | :---: |
-|  Trabalho Individual*  | 30% |
-|  Contribuições individuais | 30% |
+|  Trabalho Individual*  | 35% |
+|  Contribuições individuais | 35% |
 
 
 - Release I - Checklist de software livre + roadmap do que vai ser feito + ambiente rodando
