@@ -21,6 +21,11 @@ A seguir está a lista de projetos, em ordem alfabética, que estarão sendo tra
 - Canal do Discourse: https://tainacan.discourse.group/
 - Meta-Coach: Mateus Luna
 
+## Empurrando Juntas
+- Página Oficial: https://sobre.ejparticipe.org, https://ej.pencillabs.tec.br
+- Repositório Oficial: https://gitlab.com/pencillabs/ej
+- Meta-Coach: Giovanni Giampauli
+
 # Questionário de Seleção de Projetos
 
-[Questionário de Proejtos 2021/1]()
+[Questionário de Proejtos 2025/1]()
