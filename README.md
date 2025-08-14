@@ -10,84 +10,81 @@
 - Princípios e técnicas de manutenção de software
 - Sustentação de software
 
-## 2 - Plano de Aulas
-## Plano de Aulas – 2025.1  
+## 2 - Plano de Aulas – 2025.2
 **Disciplina:** Gerência de Configuração e Evolução de Software  
-**Professor:** Renato Coral Sampaio  
-**Período:** 24/03/2025 a 26/07/2025  
-**Dias da semana:** Terças e Quintas-feiras
+**Professora:** Carla Rocha
+**Período:** 18/08/2025 a 06/12/2025  
+**Dias da semana:** Segundas e Quartas-feiras  
 
 | Data       | Dia da Semana   | Aula                                                                 |
-|------------|------------------|----------------------------------------------------------------------|
-| 24/03/2025 | Segunda-feira    | Apresentação da disciplina / Dinâmica do curso / Introdução à Gerência de Configuração |
-| 26/03/2025 | Quarta-feira     | Apresentação dos Projetos / Questionário de Perfil das Equipes                |
-| 31/03/2025 | Segunda-feira    | Desenvolvimento colaborativo /Definição das equipes                                         |
-| 02/04/2025 | Quarta-feira     | Revisão de Git avançado |
-| 07/04/2025 | Segunda-feira    | Início da configuração dos ambientes dos projetos |
-| 09/04/2025 | Quarta-feira     | Acompanhamento de configuração dos projetos                          |
-| 14/04/2025 | Segunda-feira    | Planejamento ágil / Backlog |
-| 16/04/2025 | Quarta-feira     | Automação da Build                                      |
-| 23/04/2025 | Quarta-feira     | Configuração de Ambiente                            |
-| 28/04/2025 | Segunda-feira    | **Release I**     |
-| 30/04/2025 | Quarta-feira     | Acompanhamento                                           |
-| 05/05/2025 | Segunda-feira    | Aula: DevOps                                                         |
-| 07/05/2025 | Quarta-feira     | Projeto Individual                                       |
-| 12/05/2025 | Segunda-feira    | Acompanamento                                                  |
-| 14/05/2025 | Quarta-feira     | Aula: Isolamento de Ambiente                                         |
-| 19/05/2025 | Segunda-feira    | Aula: Orquestradores / Kubernetes                                    |
-| 21/05/2025 | Quarta-feira     | Enunciado do Trabalho Individual       |
-| 26/05/2025 | Segunda-feira    | Aula: Licenças de software livre / Copyright, patentes e aspectos legais |
-| 28/05/2025 | Quarta-feira     | Palestra 1                                                           |
-| 02/06/2025 | Segunda-feira    | **Release II**                                                            |
-| 04/06/2025 | Quarta-feira     | Acompanhamento                    |
-| 09/06/2025 | Segunda-feira    | Entrega Trabalho Individual                                         |
-| 11/06/2025 | Quarta-feira     | Aula: Clean Code / SOLID                                             |
-| 16/06/2025 | Segunda-feira    | Acompanhamento                                        |
-| 18/06/2025 | Quarta-feira     | Dívidas Técnicas dos Projetos                                        |
-| 23/06/2025 | Segunda-feira    | Dívidas Técnicas dos Projetos / Fechamento                           |
-| 25/06/2025 | Quarta-feira     | **Release III**                                     |
+|------------|-----------------|----------------------------------------------------------------------|
+| 18/08/2025 | Segunda-feira   | Apresentação da disciplina / Dinâmica do curso / Introdução à Gerência de Configuração |
+| 20/08/2025 | Quarta-feira    | Apresentação dos Projetos / Questionário de Perfil das Equipes       |
+| 25/08/2025 | Segunda-feira   | Desenvolvimento colaborativo / Definição das equipes                |
+| 27/08/2025 | Quarta-feira    | Revisão de Git avançado                                              |
+| 01/09/2025 | Segunda-feira   | Início da configuração dos ambientes dos projetos                    |
+| 03/09/2025 | Quarta-feira    | Acompanhamento de configuração dos projetos                          |
+| 08/09/2025 | Segunda-feira   | Planejamento ágil / Backlog                                          |
+| 10/09/2025 | Quarta-feira    | Automação da Build                                                   |
+| 15/09/2025 | Segunda-feira   | Configuração de Ambiente                                             |
+| 17/09/2025 | Quarta-feira    | **Release I**                                                        |
+| 22/09/2025 | Segunda-feira   | Acompanhamento                                                       |
+| 24/09/2025 | Quarta-feira    | Aula: DevOps                                                         |
+| 29/09/2025 | Segunda-feira   | Projeto Individual                                                   |
+| 01/10/2025 | Quarta-feira    | Acompanhamento                                                       |
+| 06/10/2025 | Segunda-feira   | Aula: Isolamento de Ambiente                                         |
+| 08/10/2025 | Quarta-feira    | Aula: Orquestradores / Kubernetes                                    |
+| 13/10/2025 | Segunda-feira   | **FERIADO** – Nossa Senhora Aparecida (transferido)                   |
+| 15/10/2025 | Quarta-feira    | Enunciado do Trabalho Individual                                     |
+| 20/10/2025 | Segunda-feira   | Aula: Licenças de software livre / Copyright, patentes e aspectos legais |
+| 22/10/2025 | Quarta-feira    | Palestra 1                                                            |
+| 27/10/2025 | Segunda-feira   | **Release II**                                                        |
+| 29/10/2025 | Quarta-feira    | Acompanhamento                                                        |
+| 03/11/2025 | Segunda-feira   | Entrega Trabalho Individual                                          |
+| 05/11/2025 | Quarta-feira    | Aula: Clean Code / SOLID                                              |
+| 10/11/2025 | Segunda-feira   | Acompanhamento                                                        |
+| 12/11/2025 | Quarta-feira    | Dívidas Técnicas dos Projetos                                        |
+| 17/11/2025 | Segunda-feira   | Dívidas Técnicas dos Projetos / Fechamento                           |
+| 19/11/2025 | Quarta-feira    | **Release III**                                                       |
+| 24/11/2025 | Segunda-feira   | **FERIADO** – Dia da Consciência Negra (ponto facultativo)            |
+| 26/11/2025 | Quarta-feira    | Reserva para reposição / ajustes finais                              |
+| 01/12/2025 | Segunda-feira   | Apresentação Final                                                    |
+| 03/12/2025 | Quarta-feira    | Encerramento da disciplina                                            |
 
 ## Critérios de Avaliação
 
-- Nota de Grupo - nota relacionada a entrega coletiva da entrega no projeto
-  
-|  Nota de Grupo  | Peso total 30%|
-|  ---  | :---: |
-|  Entregas (commits e funcionalidades) | 15% |
-|  Apresentações nas Releases  | 10% |
-|  Apresentação Final | 5% |  
+- **Nota de Grupo** – Nota relacionada à entrega coletiva do projeto  
+  **Peso total: 30%**
+  | Item                              | Peso |
+  |-----------------------------------|------|
+  | Entregas (commits e funcionalidades) | 15% |
+  | Apresentações nas Releases           | 10% |
+  | Apresentação Final                   | 5%  |
 
-- Nota Individual - nota relacionada a entrega individual no projeto quanto o trabalho individual
-  
-|  Nota Individual    | Peso total 70% |
-|  ---  | :---: |
-|  Trabalho Individual*  | 35% |
-|  Contribuições individuais | 35% |
+- **Nota Individual** – Nota relacionada à entrega individual no projeto  
+  **Peso total: 70%**
+  | Item                        | Peso |
+  |-----------------------------|------|
+  | Trabalho Individual*        | 35%  |
+  | Contribuições individuais   | 35%  |
 
-### Release I 
-- Checklist de software livre + roadmap do que vai ser feito + ambiente rodando
-- Checklist de Software livre: gitpage de produto + documentação técnica da comunidade + templates + códigos de conduta, etc. É esperado que esses artefatos estejam em uma primeira versão. Docker, docker, compose, integração contínua, testes automatizados. 
-- Roadmap do projeto: dependencias escolhidas, como a funcionalidade nova estará na arquitetura, epicos, features e estorias de usuário documentados no github issues. 
-- Configuração de ambiente: o ambiente funcionando em todas as máquinas, o readme atualizado com os passos para subir o ambiente e a nova funcionalidade iniciado os experimentos/implementação.
+### Release I
+- Checklist de software livre + roadmap + ambiente rodando.
+- Primeira versão dos artefatos: GitHub Pages de produto, documentação técnica, templates, código de conduta, Docker/Compose, CI, testes automatizados.
+- Roadmap do projeto com dependências, arquitetura, épicos, features e histórias de usuário no GitHub Issues.
+- Ambiente funcionando em todas as máquinas com README atualizado.
 
-### Release II 
-- Andamento do projeto: o que já foi implementado, ajustes no roadmap e decisoes de gces. Gestão de riscos
+### Release II
+- Andamento do projeto: funcionalidades implementadas, ajustes no roadmap e decisões técnicas.
+- Gestão de riscos.
 
-### Release III 
-- Entrega final. Post mortem do projeto, e roadmap ainda a ser feito (revisado). 
+### Release III
+- Entrega final, post mortem do projeto e roadmap revisado.
 
-
-A nota final será a soma da nota individual com a nota de grupo, nas proporções indicadas acima.
-* Obs: A entrega do Trabalho Individual é obrigatória para a aprovação do aluno.
+> **Obs:** A entrega do Trabalho Individual é obrigatória para aprovação.
 
 ## Material de Semestres anteriores
+[Link para Wikiversidade](https://pt.wikiversity.org/wiki/Gerência_de_Configuração_e_Evolução_de_Software#Critérios_de_Avaliação)
 
-[Link para arquivo da Wikiversidade](https://pt.wikiversity.org/wiki/Gerência_de_Configuração_e_Evolução_de_Software#Critérios_de_Avaliação)
-
-## Lista de Projetos 2025/1
-
-<!-- [Acesse a lista de Projetos de 2024/2](https://github.com/FGA-GCES/A-disciplina/blob/master/Projetos_2024_2.md) -->
-
-<!-- [Acesse a lista de Projetos de 2021/2](https://github.com/FGA-GCES/A-disciplina/blob/master/Projetos_2021_2.md)-->
-
-<!-- [Acesse a lista de Projetos de 2022/2](https://github.com/FGA-GCES/A-disciplina/blob/master/Projetos_2022_2_Turma_T01.md) -->
+## Lista de Projetos 2025/2
+<!-- Link para lista será adicionado quando disponível -->
