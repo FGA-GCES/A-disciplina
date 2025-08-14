@@ -34,9 +34,9 @@ A seguir está a lista de projetos, em ordem alfabética, que estarão sendo tra
 - Meta-coach: Joao edgwarth
 
 
-## Pathway
-- https://pathway.com/
-- https://github.com/pathwaycom/pathway
+## Oppia
+- https://github.com/oppia/oppia
+- www.oppia.org
 - Sem meta-coach
 
 ## Siyuan
