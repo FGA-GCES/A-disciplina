@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Slides das Aulas on Gerência de Configuração e Evolução de Software</title>
+    <link>http://localhost:1313/slides/</link>
+    <description>Recent content in Slides das Aulas on Gerência de Configuração e Evolução de Software</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>pt-br</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/slides/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

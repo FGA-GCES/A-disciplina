@@ -1,0 +1,58 @@
+baseURL = 'https://fga-gces.github.io/A-disciplina/'
+languageCode = 'pt-br'
+title = 'Gerência de Configuração e Evolução de Software'
+theme = 'PaperMod'
+
+[params]
+  description = "Disciplina de Gerência de Configuração e Evolução de Software - UnB/FGA"
+  author = "Prof. Carla Rocha"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+[params.homeInfoParams]
+  Title = "Gerência de Configuração e Evolução de Software"
+  Content = "Bem-vindos à disciplina de Gerência de Configuração e Evolução de Software da UnB/FGA. Aqui você encontrará todo o material do curso, incluindo slides, projetos e cronograma de aulas."
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/fga-gces/A-disciplina"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Início"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "cronograma"
+    name = "Cronograma"
+    url = "/cronograma/"
+    weight = 20
+  [[menu.main]]
+    identifier = "slides"
+    name = "Slides"
+    url = "/slides/"
+    weight = 30
+  [[menu.main]]
+    identifier = "projetos"
+    name = "Projetos"
+    url = "/projetos/"
+    weight = 40
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

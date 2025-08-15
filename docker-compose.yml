@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  hugo:
+    build: .
+    ports:
+      - "1314:1313"
+    volumes:
+      - .:/src
+      - /src/public
+      - /src/resources
+    environment:
+      - HUGO_ENVIRONMENT=development
+    command: hugo server --bind 0.0.0.0 --port 1313 --buildDrafts --buildFuture --disableFastRender --baseURL http://localhost:1314
+    restart: unless-stopped
+
+  hugo-build:
+    build: .
+    volumes:
+      - .:/src
+    environment:
+      - HUGO_ENVIRONMENT=production
+    command: hugo --gc --minify
+    profiles:
+      - build

@@ -1,0 +1,32 @@
+# Git files (keep .git and .gitmodules for submodules)
+.gitignore
+
+# Hugo build output
+public/
+resources/
+
+# Node modules (if any)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Documentation (not needed in container)
+README-HUGO.md
+
+# PDF files (large files not needed for build)
+*.pdf
