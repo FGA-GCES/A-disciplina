@@ -44,8 +44,9 @@ A seguir está a lista de projetos, em ordem alfabética, que estarão sendo tra
 - https://github.com/siyuan-note/siyuan
 - Sem meta-coach
 
+## Querido Diário – Transparência e Acesso a Dados Públicos
 
 
 # Questionário de Seleção de Projetos
 
-[Questionário de Proejtos 2025/1]()
+[Questionário de Proejtos 2025/2](https://docs.google.com/forms/d/e/1FAIpQLSeGzyAPoGTLECox9NuDtvcsDCB7WW1vQyDbjjp1RlbC_MuWUg/viewform?usp=dialog)
