@@ -1,5 +1,22 @@
 # Gerência de Configuração Evolução de Software
 
+## Sobre a disciplina
+
+Esta disciplina aborda práticas modernas de gerência de configuração de software, com foco em desenvolvimento colaborativo, integração contínua, DevOps e confiabilidade de sistemas.
+
+Os estudantes irão trabalhar em projetos reais, utilizando ferramentas e práticas amplamente adotadas na indústria, como Git, CI/CD, containers e automação de ambientes.
+
+##  Objetivos de Aprendizagem
+
+Ao final da disciplina, o estudante será capaz de:
+
+- Gerenciar versões e mudanças em sistemas de software
+- Configurar pipelines de integração e entrega contínua
+- Trabalhar de forma colaborativa utilizando Git
+- Entender e aplicar práticas de DevOps e SRE
+- Gerenciar dependências e riscos em sistemas reais
+
+
 ## 1 - Tópicos/Ementa
 - Identificação de configuração (itens e linha-base)
 - Controle de mudanças e versões
@@ -25,7 +42,53 @@ pode atualizar essse plano de ensino para datas começando dia 18.08 e aulas seg
 
 ## 2 - Plano de Aulas
 
+o plano de aula atualizado, com o material apresentado, pode ser acessado em [https://docs.google.com/spreadsheets/d/14hsguuLPxNUtXiXs1SShGePUVlYoembjXXD7sM38J8E/edit?usp=sharing](https://docs.google.com/spreadsheets/d/14hsguuLPxNUtXiXs1SShGePUVlYoembjXXD7sM38J8E/edit?usp=sharing).
 
+
+## Plano de Aulas 2026
+
+| Data | Dia da Semana | Atividade |
+| :--------: | :--------: |:------|
+| 16/03/2026 | Segunda-feira | Apresentação da disciplina <br> Definição da dinâmica do curso |
+| 18/03/2026 | Quarta-feira | Aula Assíncrona |
+| 23/03/2026 | Segunda-feira | Introdução à Gerência de Configuração <br> - Problema da mudança em software <br> - Itens de configuração (CIs) <br> - Baselines <br> - Rastreabilidade <br> - Discussão: “o que acontece sem controle de versão?” |
+| 25/03/2026 | Quarta-feira | Apresentação dos projetos <br> Definição das equipes |
+| 30/03/2026 | Segunda-feira | Feriado |
+| 01/04/2026 | Quarta-feira | Git: commit, branch, merge, rebase <br> Fluxos: Git Flow, GitHub Flow, Trunk-based |
+| 06/04/2026 | Segunda-feira | Pull Requests e Code Review <br> Issues, milestones e project boards <br> Conventional Commits <br> Governança em OSS <br> **Atividade:** Documentar a governança de um projeto OSS |
+| 08/04/2026 | Quarta-feira | Conceito de CI <br> Pipeline: build → test → análise <br> Ferramentas: GitHub Actions, GitLab CI |
+| 13/04/2026 | Segunda-feira | Show me the code - Sprint 1 |
+| 15/04/2026 | Quarta-feira | Início Sprint 2 <br> Automação da build <br> Automação de ambiente |
+| 20/04/2026 | Segunda-feira | Acompanhamento da Sprint 2 |
+| 22/04/2026 | Quarta-feira | Problema: “funciona na minha máquina” <br> Docker <br> Kubernetes (visão geral) <br> **Atividade:** Subir aplicação com Docker e versionar ambiente |
+| 27/04/2026 | Segunda-feira | Show me the code - Sprint 2 |
+| 29/04/2026 | Quarta-feira | Início Sprint 3 |
+| 04/05/2026 | Segunda-feira | Kubernetes e Deploy <br> CD vs Deployment <br> Estratégias: Blue-Green, Canary <br> Infraestrutura como código (IaC) <br> **Atividade:** Discutir riscos de produção |
+| 06/05/2026 | Quarta-feira | Kubernetes e Deploy (continuação) <br> Estratégias de deploy e riscos |
+| 11/05/2026 | Segunda-feira | Show me the code - Sprint 3 <br> Apresentação do trabalho individual |
+| 13/05/2026 | Quarta-feira | Open Source e Aspectos Legais <br> Licenças: MIT, Apache, GPL <br> Governança OSS <br> Compliance <br> **Atividade:** Analisar riscos legais |
+| 18/05/2026 | Segunda-feira | Qualidade e Releases <br> SemVer <br> Gestão de releases <br> Change logs <br> **Atividade:** Criar release versionada |
+| 20/05/2026 | Quarta-feira | Acompanhamento do trabalho individual |
+| 25/05/2026 | Segunda-feira | Entrega do trabalho individual |
+| 27/05/2026 | Quarta-feira | Início Sprint 4 <br> Clean Code e SOLID |
+| 01/06/2026 | Segunda-feira | Seminário 01 |
+| 03/06/2026 | Quarta-feira | Seminário 02 |
+| 08/06/2026 | Segunda-feira | Show me the code - Sprint 4 |
+| 10/06/2026 | Quarta-feira | Início Sprint 5 <br> Seminário 03 |
+| 15/06/2026 | Segunda-feira | Seminário 04 |
+| 17/06/2026 | Quarta-feira | Seminário 05 |
+| 22/06/2026 | Segunda-feira | Feriado |
+| 24/06/2026 | Quarta-feira | Show me the code - Sprint 5 |
+| 29/06/2026 | Segunda-feira | Sprint de dívidas técnicas |
+| 01/07/2026 | Quarta-feira | Sprint de dívidas técnicas |
+| 06/07/2026 | Segunda-feira | Apresentação final dos projetos |
+| 08/07/2026 | Quarta-feira | Apresentação final dos projetos |
+| 13/07/2026 | Segunda-feira | Lançamento de notas |
+| 15/07/2026 | Quarta-feira | Revisão de notas |
+
+
+
+<!--
 | Data | Dia da Semana | Aula |
 | :--------: | :--------: |:------|
 | **2025**   |              |   |
@@ -60,7 +123,7 @@ pode atualizar essse plano de ensino para datas começando dia 18.08 e aulas seg
 | 24/11/2025 | Segunda-feira | Palestra 2 |
 | 26/11/2025 | Quarta-feira | Dívidas Técnicas dos Projetos |
 | 01/12/2025 | Segunda-feira | Apresentação final dos projetos |
-| 03/12/2025 | Quarta-feira | Revisão de Notas |
+| 03/12/2025 | Quarta-feira | Revisão de Notas | -->
 
 
 
@@ -324,14 +387,14 @@ pode atualizar essse plano de ensino para datas começando dia 18.08 e aulas seg
 |  Nota de Grupo  | Peso total 30%|
 |  ---  | :---: |
 |  Entregas (commits e funcionalidades) | 15% |
-|  Apresentações (Clean Code e SOLID)   | 10% |
+|  Seminário  | 10% |
 |  Apresentação final | 5% |  
 
 
 |  Nota Individual    | Peso total 70% |
 |  ---  | :---: |
 |  Trabalhos Individuais*  | 30% |
-|  Apresentações individuais | 10% |
+|  Apresentações individuais (Seminário) | 10% |
 |  Contribuições individuais | 30% |
 
 A nota final será a soma da nota individual com a nota de grupo, nas proporções indicadas acima.
@@ -341,9 +404,9 @@ A nota final será a soma da nota individual com a nota de grupo, nas proporçõ
 
 [Link para arquivo da Wikiversidade](https://pt.wikiversity.org/wiki/Gerência_de_Configuração_e_Evolução_de_Software#Critérios_de_Avaliação)
 
-## Lista de Projetos 2025/2
+## Lista de Projetos 2026/1
 
-[Acesse a lista de Projetos de 2025/2](https://github.com/FGA-GCES/A-disciplina/blob/master/Projetos_2025_2.md)
+[Acesse a lista de Projetos de 2026/1](https://github.com/FGA-GCES/A-disciplina/blob/master/Projetos_2026_1.md)
 
 <!-- [Acesse a lista de Projetos de 2021/2](https://github.com/FGA-GCES/A-disciplina/blob/master/Projetos_2021_2.md)-->
 
@@ -610,16 +673,15 @@ A nota final será a soma da nota individual com a nota de grupo, nas proporçõ
 |  Nota de Grupo  (nota relacionada a participação pessoal)| Peso total 30%|
 |  ---  | :---: |
 |  Entregas (commits e funcionalidades) | 15% |
-|  Apresentações (Clean Code e SOLID)   | 10% |
+|  Seminário  | 10% |
 |  Apresentação final | 5% |  
 
 
 |  Nota Individual    | Peso total 70% |
 |  ---  | :---: |
 |  Trabalhos Individuais*  | 30% |
-|  Apresentações individuais | 10% |
+|  Apresentações individuais (Seminário) | 10% |
 |  Contribuições individuais | 30% |
-
 A nota final será a soma da nota individual com a nota de grupo, nas proporções indicadas acima.
 * Obs: A entrega do Trabalho Individual é obrigatória para a aprovação do aluno.
 
