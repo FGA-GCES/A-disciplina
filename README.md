@@ -382,23 +382,6 @@ o plano de aula atualizado, com o material apresentado, pode ser acessado em [ht
 | 02/11/2021 | *Feriado* |
 | 04/11/2021 | Apresentação final dos projetos | -->
 
-## Critérios de Avaliação
-
-|  Nota de Grupo  | Peso total 30%|
-|  ---  | :---: |
-|  Entregas (commits e funcionalidades) | 15% |
-|  Seminário  | 10% |
-|  Apresentação final | 5% |  
-
-
-|  Nota Individual    | Peso total 70% |
-|  ---  | :---: |
-|  Trabalhos Individuais*  | 30% |
-|  Apresentações individuais (Seminário) | 10% |
-|  Contribuições individuais | 30% |
-
-A nota final será a soma da nota individual com a nota de grupo, nas proporções indicadas acima.
-* Obs: A entrega do Trabalho Individual é obrigatória para a aprovação do aluno.
 
 ## Material de Semestres anteriores
 
