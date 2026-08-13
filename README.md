@@ -41,13 +41,50 @@ pode atualizar essse plano de ensino para datas começando dia 18.08 e aulas seg
 - Sustentação de software
 
 ## 2 - Plano de Aulas
+<!-- o plano de aula atualizado, com o material apresentado, pode ser acessado em [https://docs.google.com/spreadsheets/d/14hsguuLPxNUtXiXs1SShGePUVlYoembjXXD7sM38J8E/edit?usp=sharing](https://docs.google.com/spreadsheets/d/14hsguuLPxNUtXiXs1SShGePUVlYoembjXXD7sM38J8E/edit?usp=sharing). -->
 
-o plano de aula atualizado, com o material apresentado, pode ser acessado em [https://docs.google.com/spreadsheets/d/14hsguuLPxNUtXiXs1SShGePUVlYoembjXXD7sM38J8E/edit?usp=sharing](https://docs.google.com/spreadsheets/d/14hsguuLPxNUtXiXs1SShGePUVlYoembjXXD7sM38J8E/edit?usp=sharing).
+## Plano de Aulas 2026/2
+
+| Data | Dia da Semana       | Atividade |
+| :--------: | :-----------: |:------|
+| 11/08/2026 | Terça-feira   | Apresentação da disciplina <br> Definição da dinâmica do curso |
+| 13/08/2026 | Quinta-feira  | Introdução à Gerência de Configuração <br> - Problema da mudança em software <br> - Itens de configuração (CIs) <br> - Baselines <br> - Rastreabilidade <br> - Discussão: “o que acontece sem controle de versão?” |
+| 18/08/2026 | Terça-feira   | Git: commit, branch, merge, rebase <br> Fluxos: Git Flow, GitHub Flow, Trunk-based |
+| 20/08/2026 | Quinta-feira  | Apresentação dos projetos <br> Definição das equipes |
+| 25/08/2026 | Terça-feira   | Organização das equipes em projetos <br> Início da sprint 1 (Configuração de ambiente) |
+| 27/08/2026 | Quinta-feira  | Pull Requests e Code Review <br> Issues, milestones e project boards <br> Conventional Commits <br> Governança em OSS <br> **Atividade:** Documentar a governança de um projeto OSS |
+| 01/09/2026 | Terça-feira   | Conceito de CI <br> Pipeline: build → test → análise <br> Ferramentas: GitHub Actions, GitLab CI |
+| 03/09/2026 | Quinta-feira  | Acompanhamento dos projetos |
+| 08/09/2026 | Terça-feira   | Show me the code - Sprint 1 |
+| 10/09/2026 | Quinta-feira  | Início Sprint 2 <br> Automação da build <br> Automação de ambiente |
+| 15/09/2026 | Terça-feira   | Acompanhamento da Sprint 2 |
+| 17/09/2026 | Quinta-feira  | Problema: “funciona na minha máquina” <br> Docker <br> Kubernetes (visão geral) <br> **Atividade:** Subir aplicação com Docker e versionar ambiente |
+| 22/09/2026 | Terça-feira   | Semana Universitária  |
+| 24/09/2026 | Quinta-feira  | Semana Universitária  |
+| 29/09/2026 | Terça-feira   | Show me the code - Sprint 2 |
+| 01/10/2026 | Quinta-feira  | Início Sprint 3 <br> Kubernetes e Deploy <br> CD vs Deployment <br> Estratégias: Blue-Green, Canary <br> Infraestrutura como código (IaC) <br> **Atividade:** Discutir riscos de produção |
+| 06/10/2026 | Terça-feira   | Kubernetes e Deploy (continuação) <br> Estratégias de deploy e riscos |   
+| 08/10/2026 | Quinta-feira  | Show me the code - Sprint 3 <br> Apresentação do trabalho individual |
+| 13/10/2026 | Terça-feira   | Acompanhamento do trabalho individual |
+| 15/10/2026 | Quinta-feira  | Qualidade e Releases <br> SemVer <br> Gestão de releases <br> Change logs <br> **Atividade:** Criar release versionada |
+| 20/10/2026 | Terça-feira   | Open Source e Aspectos Legais <br> Licenças: MIT, Apache, GPL <br> Governança OSS <br> Compliance <br> **Atividade:** Analisar riscos legais |
+| 22/10/2026 | Quinta-feira  | Seminário 01 |
+| 25/10/2026 | Terça-feira   | Entrega do trabalho individual |
+| 27/10/2026 | Terça-feira   | Início Sprint 4 <br> Clean Code e SOLID  |
+| 29/10/2026 | Quinta-feira  | Seminário 02 |
+| 03/11/2026 | Terça-feira   | Seminário 03  |
+| 05/11/2026 | Quinta-feira  | Show me the code - Sprint 4 |
+| 10/11/2026 | Terça-feira   | Seminário 05 <br> Início Sprint 5 <br> |
+| 12/11/2026 | Quinta-feira  | Seminário 04 |
+| 17/11/2026 | Terça-feira   | Seminário 05 |
+| 19/11/2026 | Quinta-feira  | Show me the code - Sprint 5 |
+| 24/11/2026 | Terça-feira   | Sprint de dívidas técnicas |
+| 26/11/2026 | Quinta-feira  | Sprint de dívidas técnicas |
+| 01/12/2026 | Terça-feira   | Apresentação final dos projetos |
+| 03/12/2026 | Quinta-feira  | Lançamento de notas |
 
 
-## Plano de Aulas 2026
-
-| Data | Dia da Semana | Atividade |
+<!-- | Data | Dia da Semana | Atividade |
 | :--------: | :--------: |:------|
 | 16/03/2026 | Segunda-feira | Apresentação da disciplina <br> Definição da dinâmica do curso |
 | 18/03/2026 | Quarta-feira | Aula Assíncrona |
@@ -84,7 +121,7 @@ o plano de aula atualizado, com o material apresentado, pode ser acessado em [ht
 | 06/07/2026 | Segunda-feira | Apresentação final dos projetos |
 | 08/07/2026 | Quarta-feira | Apresentação final dos projetos |
 | 13/07/2026 | Segunda-feira | Lançamento de notas |
-| 15/07/2026 | Quarta-feira | Revisão de notas |
+| 15/07/2026 | Quarta-feira | Revisão de notas | -->
 
 
 
@@ -656,15 +693,15 @@ o plano de aula atualizado, com o material apresentado, pode ser acessado em [ht
 |  Nota de Grupo  (nota relacionada a participação pessoal)| Peso total 30%|
 |  ---  | :---: |
 |  Entregas (commits e funcionalidades) | 15% |
-|  Seminário  | 10% |
+|  Apresentações nas Sprints| 10% |
 |  Apresentação final | 5% |  
 
 
 |  Nota Individual    | Peso total 70% |
 |  ---  | :---: |
-|  Trabalhos Individuais*  | 30% |
-|  Apresentações individuais (Seminário) | 10% |
-|  Contribuições individuais | 30% |
+|  Trabalhos Individuais*  | 35% |
+|  Contribuições individuais | 35% |
+
 A nota final será a soma da nota individual com a nota de grupo, nas proporções indicadas acima.
 * Obs: A entrega do Trabalho Individual é obrigatória para a aprovação do aluno.
 
