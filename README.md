@@ -424,9 +424,9 @@ pode atualizar essse plano de ensino para datas começando dia 18.08 e aulas seg
 
 [Link para arquivo da Wikiversidade](https://pt.wikiversity.org/wiki/Gerência_de_Configuração_e_Evolução_de_Software#Critérios_de_Avaliação)
 
-## Lista de Projetos 2026/1
+## Lista de Projetos 2026/2
 
-[Acesse a lista de Projetos de 2026/1](https://github.com/FGA-GCES/A-disciplina/blob/master/Projetos_2026_1.md)
+[Acesse a lista de Projetos de 2026/2](https://github.com/FGA-GCES/A-disciplina/blob/master/Projetos_2026_2.md)
 
 <!-- [Acesse a lista de Projetos de 2021/2](https://github.com/FGA-GCES/A-disciplina/blob/master/Projetos_2021_2.md)-->
 
