@@ -64,25 +64,27 @@ pode atualizar essse plano de ensino para datas começando dia 18.08 e aulas seg
 | 29/09/2026 | Terça-feira   | Show me the code - Sprint 2 |
 | 01/10/2026 | Quinta-feira  | Início Sprint 3 <br> Kubernetes e Deploy <br> CD vs Deployment <br> Estratégias: Blue-Green, Canary <br> Infraestrutura como código (IaC) <br> **Atividade:** Discutir riscos de produção |
 | 06/10/2026 | Terça-feira   | Kubernetes e Deploy (continuação) <br> Estratégias de deploy e riscos |   
-| 08/10/2026 | Quinta-feira  | Show me the code - Sprint 3 <br> Apresentação do trabalho individual |
+| 08/10/2026 | Quinta-feira  | Show me the code - Sprint 3 |
 | 13/10/2026 | Terça-feira   | Acompanhamento do trabalho individual |
 | 15/10/2026 | Quinta-feira  | Qualidade e Releases <br> SemVer <br> Gestão de releases <br> Change logs <br> **Atividade:** Criar release versionada |
 | 20/10/2026 | Terça-feira   | Open Source e Aspectos Legais <br> Licenças: MIT, Apache, GPL <br> Governança OSS <br> Compliance <br> **Atividade:** Analisar riscos legais |
-| 22/10/2026 | Quinta-feira  | Seminário 01 |
-| 25/10/2026 | Terça-feira   | Entrega do trabalho individual |
-| 27/10/2026 | Terça-feira   | Início Sprint 4 <br> Clean Code e SOLID  |
-| 29/10/2026 | Quinta-feira  | Seminário 02 |
-| 03/11/2026 | Terça-feira   | Seminário 03  |
-| 05/11/2026 | Quinta-feira  | Show me the code - Sprint 4 |
-| 10/11/2026 | Terça-feira   | Seminário 05 <br> Início Sprint 5 <br> |
+| 22/10/2026 | Quinta-feira  | Licenças de Software |
+| 25/10/2026 | Terça-feira   | Acompanhamento Sprint 4 |
+| 27/10/2026 | Terça-feira   | Show me the code - Sprint 4  |
+| 29/10/2026 | Quinta-feira  | Apresentação do trabalho individual |
+| 03/11/2026 | Terça-feira   | Seminário 01  |
+| 05/11/2026 | Quinta-feira  | Seminário 02 |
+| 10/11/2026 | Terça-feira   | Seminário 03 |
 | 12/11/2026 | Quinta-feira  | Seminário 04 |
-| 17/11/2026 | Terça-feira   | Seminário 05 |
-| 19/11/2026 | Quinta-feira  | Show me the code - Sprint 5 |
-| 24/11/2026 | Terça-feira   | Sprint de dívidas técnicas |
-| 26/11/2026 | Quinta-feira  | Sprint de dívidas técnicas |
+| 15/11/2026 | Domingo.      | Entrega do Trabalho Individual |
+| 17/11/2026 | Terça-feira   | Prova sobre o Trabalho Individual |
+| 19/11/2026 | Quinta-feira  | Acompanhamento Sprint 5 |
+| 24/11/2026 | Terça-feira   | Acompanhamento Sprint 5 |
+| 26/11/2026 | Quinta-feira  | Show me the code - Sprint 5 |
 | 01/12/2026 | Terça-feira   | Apresentação final dos projetos |
 | 03/12/2026 | Quinta-feira  | Lançamento de notas |
 
+Início Sprint 4 <br> Clean Code e SOLID
 
 <!-- | Data | Dia da Semana | Atividade |
 | :--------: | :--------: |:------|
